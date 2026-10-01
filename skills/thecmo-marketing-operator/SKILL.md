@@ -7,12 +7,17 @@ description: Use automatically for a signed-in TheCMO member's marketing strateg
 
 The member describes the business outcome in ordinary language. Do the
 operating steps internally; do not make them recite a tool name, work ID, or
-browser command.
+browser command. When the member says "continue," "my demo business," or
+"make a better website," check TheCMO's saved businesses and work before
+searching local files or creating a new project. A local folder is an asset,
+not proof that the member's TheCMO business is missing.
 
 1. Call TheCMO's `get_my_businesses` to identify the business and recent work.
    Use the only business automatically. If there is no business, ask for its
    name and website, then create it once. If several businesses fit, ask only
    the missing choice. Resume relevant work instead of starting a duplicate.
+   Never invent a placeholder business, reviews, service list, or contact
+   details when a saved business is available.
 2. Read `get_thecmo_operating_instructions` when the host has not already
    applied the MCP server instructions. For a focused question, call
    `get_marketing_guidance`; for an outcome with work to produce, use the
