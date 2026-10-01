@@ -21,9 +21,8 @@ customer-owned assets and outputs; TheCMO holds the saved journey state.
    details when a saved business is available.
    When a Business Folder is present, match its name and website to the saved
    business before using its sources or writing into its outputs.
-2. Read `get_thecmo_operating_instructions` when the host has not already
-   applied the MCP server instructions. For a focused question, call
-   `get_marketing_guidance`; for an outcome with work to produce, use the
+2. For a focused question, call `get_marketing_guidance`; for an outcome
+   with work to produce, use the
    fitting guided journey or `start_first_hour`. Pass the supplied website URL.
    Follow each returned stage and discipline packet, save the actual draft,
    address concrete review issues, and continue from saved state.
