@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "thecmo": {
+      "type": "http",
+      "url": "https://mcp.thecmo.ai/mcp"
+    }
+  }
+}
