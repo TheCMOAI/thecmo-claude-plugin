@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "displayName": "TheCMO",
   "description": "Marketing strategy and reviewable work grounded in your business, customers, website, and connected evidence.",
+  "license": "MIT",
   "author": {
     "name": "TheCMO",
     "email": "cmo@thecmo.ai"
