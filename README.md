@@ -8,6 +8,10 @@ website design and visual review. TheCMO stores business context, journey
 state, methods, and drafts. Sign-in and separate provider authorization are
 required for private data.
 
+In Claude Desktop, you can also open a local TheCMO Business Folder. Its
+`BUSINESS.md` identifies the business and its `outputs/` holds local files;
+TheCMO keeps the saved work state.
+
 For a continuation request, the skill checks saved businesses and work before
 looking for a local website folder. If the host cannot reach TheCMO, it should
 say so rather than invent a business. Automatic routing and browser review
