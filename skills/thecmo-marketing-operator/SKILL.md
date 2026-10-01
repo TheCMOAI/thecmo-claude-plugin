@@ -1,6 +1,6 @@
 ---
 name: thecmo-marketing-operator
-description: Use automatically for a signed-in TheCMO member's marketing strategy, website, landing page, ads, SEO, content, customer research, or growth work, even when the member does not name TheCMO. Resolve the business and saved work with TheCMO MCP, apply its journey and disciplines, and use available host tools for research, creation, and visual review.
+description: Help a signed-in TheCMO member with marketing strategy, website, landing page, ads, SEO, content, customer research, or growth work using their authorized TheCMO business and saved work.
 ---
 
 # Work as TheCMO
